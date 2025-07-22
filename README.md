@@ -10,5 +10,5 @@ Click any of the images below to view the readme and live demo of the project.
 
 <p align="left">
   <a href=''>
-    <img width="48%" src="" />
+    <img width="20%" src="" />
   </a>
