@@ -8,13 +8,11 @@ This repository contains front-end projects built following the [roadmap.sh](htt
 
 Click any of the images below to view the readme and live demo of the project.
 
-<div style="display: flex">
-  <p>
+  <p align="left">
   <a href=' frontend-projects-roadmap/single-page-cv'>
     <img width="30%" src="assets/images/SIngle-Page-CV.png" />
   </a>
-<p>
+<p align="right">
   <a href=' frontend-projects-roadmap/basic-html-website'>
     <img width="30%" src="assets/images/personal-portfolio.png" />
   </a>
-</div>
