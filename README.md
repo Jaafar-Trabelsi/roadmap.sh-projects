@@ -12,3 +12,7 @@ Click any of the images below to view the readme and live demo of the project.
   <a href=' frontend-projects-roadmap/single-page-cv'>
     <img width="30%" src="assets/images/SIngle-Page-CV.png" />
   </a>
+<p>
+  <a href=' frontend-projects-roadmap/single-page-cv'>
+    <img width="30%" src="assets/images/SIngle-Page-CV.png" />
+  </a>
