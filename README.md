@@ -17,6 +17,6 @@ Click any of the images below to view the readme and live demo of the project.
     <img width="30%" src="assets/images/portfolio.png" />
   </a>
     <a href='frontend-projects/04-changelog-component'>
-    <img width="30%" src="assets/images/portfolio.png" />
+    <img width="30%" src="assets/images/Changelog.png" />
   </a>
   
