@@ -15,8 +15,6 @@ Click any of the images below to view the readme and live demo of the project.
   <p>
   <a href='frontend-projects/01-single-page-cv'>
     <img width="30%" src="assets/images/SIngle-Page-CV.png" />
-  </a>
-<p>
   <a href='frontend-projects/02-basic-html-website'>
     <img width="30%" src="assets/images/portfolio.png" />
   </a>
