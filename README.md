@@ -8,15 +8,20 @@ This repository contains front-end projects built following the [roadmap.sh](htt
 [Basic HTML Website](https://roadmap.sh/projects/basic-html-website),
 [Personal Portfolio](https://roadmap.sh/projects/portfolio-website),
 [Changelog Component](https://roadmap.sh/projects/changelog-component),
+[Testimonial Cards](https://roadmap.sh/projects/testimonial-cards)
 
 Click any of the images below to view the readme and live demo of the project.
 
   <a href='frontend-projects/01-single-page-cv'>
     <img width="30%" src="assets/images/SIngle-Page-CV.png" />
+  </a>
   <a href='frontend-projects/02-basic-html-website'>
     <img width="30%" src="assets/images/portfolio.png" />
   </a>
-    <a href='frontend-projects/04-changelog-component'>
-    <img width="30%" src="assets/images/Changelog.png" />
+  <a href='frontend-projects/04-changelog-component'>
+    <img width="30%" src="assets/images/Changelog.pn" />
+  </a>
+  <a href='frontend-projects/05-testimonial-cards'>
+    <img width="30%" src="assets/images/Cards.png" />
   </a>
   
