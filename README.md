@@ -25,7 +25,7 @@ Click any of the images below to view the readme and live demo of the project.
   <a href='frontend-projects/05-testimonial-cards'>
     <img width="30%" src="assets/images/Cards.png" />
   </a>
-   <a href='frontend-projects/05-testimonial-cards'>
+   <a href='frontend-projects/06-Datepicker-UI'>
     <img width="30%" src="assets/images/Date.png" />
   </a>
   
