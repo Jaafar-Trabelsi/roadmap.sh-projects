@@ -26,6 +26,6 @@ Click any of the images below to view the readme and live demo of the project.
     <img width="30%" src="assets/images/Cards.png" />
   </a>
    <a href='frontend-projects/05-testimonial-cards'>
-    <img width="30%" src="assets/images/Cards.png" />
+    <img width="30%" src="assets/images/Date.png" />
   </a>
   
