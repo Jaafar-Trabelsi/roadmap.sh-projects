@@ -13,7 +13,7 @@ This repository contains front-end projects built following the [roadmap.sh](htt
 [Accessible Form UI](https://roadmap.sh/projects/accessible-form-ui),
 
 
-Click any of the images below for live demo of the project.
+Click any of the images below for the live demo of the project.
 
   <a href='frontend-projects/01-single-page-cv'>
     <img width="30%" src="assets/images/SIngle-Page-CV.png" />
